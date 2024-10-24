@@ -193,8 +193,8 @@ Ensure you're connected to the correct Ethereum network (e.g., Sepolia or a loca
 
 Ensure that MetaMask or the chosen wallet has enough test ETH for transactions. Use [Sepolia Faucet](https://cloud.google.com/application/web3/faucet/ethereum/sepolia) for sepolia testnet.
 ## Future Improvements
-Enable task categorization and prioritization.
+- Enable task categorization and prioritization.
 
-Add user authentication using ENS (Ethereum Name Service).
+- Add user authentication using ENS (Ethereum Name Service).
 
-Implement notifications for completed tasks.
+- Implement notifications for completed tasks.
