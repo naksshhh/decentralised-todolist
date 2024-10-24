@@ -33,8 +33,8 @@ Before running this project, ensure you have the following installed:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/todo-dapp.git
-    cd todo-dapp
+    git clone https://https://github.com/naksshhh/decentralised-todolist/
+    cd decentralised-todolist
     ```
 
 2. **Install dependencies**:

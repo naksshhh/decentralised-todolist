@@ -3,6 +3,7 @@ import { ethers } from 'ethers';
 import Web3Modal from 'web3modal';
 import TodoListABI from './contracts/TodoList.json';
 import { uploadToPinata, fetchFromPinata } from './pinata.js'; // Import Pinata functions
+import './styles.css';
 
 // Constants
 const CONTRACT_ADDRESS = '0x048c4924232F28AE50298BFaDbD7DAe42212F552';
